@@ -2,7 +2,7 @@
   "name": "mern-expense-tracker",
   "version": "1.0.0",
   "description": "backend for expense tracker",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
